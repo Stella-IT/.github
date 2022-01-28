@@ -14,5 +14,5 @@ This organization contains various Stella IT's opensource technologies, such as:
 
 ---
 
-Stella IT adopts the [Citizen Code of Conduct].  
+Stella IT adopts the [Citizen Code of Conduct](https://github.com/stumpsyn/policies/blob/master/citizen_code_of_conduct.md).  
 For more information: visit [Stella IT OpenSource: Code of Conduct](https://opensource.stella-it.com/code_of_conduct/) for more information.  
