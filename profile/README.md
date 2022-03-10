@@ -9,8 +9,8 @@ This organization contains various Stella IT's opensource technologies, such as:
 * Stella IT Xen Platform
   - [XenXenXenSe](https://github.com/Stella-IT/XenXenXenSe)
   - [XenGarden](https://github.com/Stella-IT/XenGarden)
-* [meili.ng](https://meili.ng)
-* [mcsv.kr](https://mcsv.kr)
+* [meiliNG](https://meili.ng) - A "Next-Generation Gatekeeper" that supports OAuth2 and OpenID specifications
+* [Minehub](https://minehub.kr) - Free Minecraft game server hosting service/server management solution
 
 ---
 
